@@ -1,4 +1,4 @@
-# Django Class Management System (beta)
+# Django Class Management System
 This is a Simple Class Management System Developed for Educational Purpose using Python (Django).
 Feel free to make changes based on your requirements.
 
@@ -49,7 +49,7 @@ Activate Virtual Environment
 
 For Windows in cmd
 ```
-fine/scripts/activate
+$  fine/scripts/activate
 ```
 
 **4. Install Requirements from 'requirements.txt'**
