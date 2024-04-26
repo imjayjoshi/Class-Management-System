@@ -83,14 +83,17 @@ Then Add Email, Username and Password
 
 *For HOD /SuperAdmin*
 Email: jayjoshi@gmail.com
+
 Password: jay
 
 *For Staff*
 Email: kdumatar88@gmail.com
+
 Password: keyur
 
 *For Student*
 Email: sanjivanigohil@gmail.com
+
 Password: sanjivani
 
 
