@@ -45,8 +45,6 @@ $  cd Class-Management-System
 
 **3. Activate a Virtual Environment**
 
-Activate Virtual Environment
-
 For Windows in cmd
 ```
 $  fine/scripts/activate
