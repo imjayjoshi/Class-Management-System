@@ -96,4 +96,4 @@ Password: sanjivani
 
 ## For Sponsor or Projects Enquiry
 1. Email - jj623196@gmail.com
-2. LinkedIn - [vijaythapa](www.linkedin.com/in/jay-joshi2708 "Vijay Thapa on LinkedIn")
+2. LinkedIn - [jay joshi](www.linkedin.com/in/jay-joshi2708 "Jay Joshi on LinkedIn")
