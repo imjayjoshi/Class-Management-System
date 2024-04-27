@@ -1,4 +1,4 @@
-# Django Class Management System
+[Final PPT.pptx](https://github.com/imjayjoshi/Class-Management-System/files/15138405/Final.PPT.pptx)# Django Class Management System
 This is a Simple Class Management System Developed for Educational Purpose using Python (Django).
 Feel free to make changes based on your requirements.
 
@@ -100,3 +100,6 @@ Password: sanjivani
 ## For Sponsor or Projects Enquiry
 1. Email - jj623196@gmail.com
 2. LinkedIn - [jay joshi](www.linkedin.com/in/jay-joshi2708 "Jay Joshi on LinkedIn")
+
+## Output ScreeShot
+[Screenshots.pdf](https://github.com/imjayjoshi/Class-Management-System/files/15138417/Final.PPT.pdf)
