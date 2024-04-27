@@ -1,4 +1,4 @@
-[Final PPT.pptx](https://github.com/imjayjoshi/Class-Management-System/files/15138405/Final.PPT.pptx)# Django Class Management System
+# Django Class Management System
 This is a Simple Class Management System Developed for Educational Purpose using Python (Django).
 Feel free to make changes based on your requirements.
 
